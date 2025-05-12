@@ -1,16 +1,7 @@
-# fecemesh_detection
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# BasicApp-FaceDetection
+Ini merupakan aplikasi flutter basic yang didalam nya terdapat **Face Detection** dengan memanfaatkan libary sebagai berikut
+```yaml
+google_mlkit_face_detection: ^0.13.1
+permission_handler: ^12.0.0+1
+tflite_flutter: ^0.11.0
+camera: ^0.10.4
